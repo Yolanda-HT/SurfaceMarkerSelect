@@ -1,0 +1,279 @@
+CD,AlternativeName,gene_name,gene_synonym
+CD146,,Mcam,1-gicerin|CD146|s-endo|Muc18|s-gicerin
+CD71,,Tfrc,2610028K12Rik|E430033M20Rik|p90|CD71|Trfr|Mtvr-1|Mtvr1|TfR1
+KLRG1,,Klrg1,2F1-Ag
+SSEA-1,SSEA1,Fut4,3-fucosyl-N-acetyl-lactosamine epitope|Ssea1|SSEA-1|FAL|LeX|FucT-IV
+Ly6K,,Ly6k,3110035B01Rik|mLy-6K|2410015A16Rik
+CD200R3,,Cd200r3,4733401I18Rik|4833409J19Rik|mCD200RLb
+CD319,CRACC|SLAMF7,Slamf7,4930560D03Rik|19A|19A24|novel Ly9|CS1
+CD147,,Bsg,5A11/Basigin|EMMPRIN|gp 42|HT-7|CD147|neurothelin
+CD276,,Cd276,6030411F23Rik|B7-H3|B7RP-2|B7h3
+CD84,,Cd84,A130013D22Rik|CDw84|SLAMF5
+CD253,TRAIL|APO-2L|TL2|Ly81|Trail|APO-2L|Tnfsf10,Tnfsf10,A330042I21Rik|Trail|APO-2L
+CD137,,Tnfrsf9,A930040I11Rik|CDw137|4-1BB|Ly63|ILA|Cd137
+CD134,,Tnfrsf4,ACT35|Txgp1|Ox40|CD134
+CD103,,Itgae,alpha-E1|CD103
+CD51,,Itgav,alphav-integrin|CD51|D430040G12Rik|vitronectin receptor alpha polypeptide  (VNRA)|2610028E01Rik|1110004F14Rik
+JAML,,Jaml,Amica1|LOC270152
+CD252,OX-40Ligand|gp34|TNFSF4,Tnfsf4,Ath-1|gp34|OX40L|TXGP1|Ath1|CD134L|Txgp1l
+Tim-4,Tim4,Timd4,B430010N18Rik|TIM-4|Tim4
+CD47,,Cd47,B430305P08Rik|Itgp|9130415E20Rik|IAP|integrin-associated protein
+CD273,B7DC|PD-L2|Btdc|PD-L2|MGC124039|MGC124040|F730015O22Rik|Pdcd1lg2,Pdcd1lg2,B7-DC|Btdc|F730015O22Rik|PD-L2
+B7-H4,B7H4,Vtcn1,B7x|B7-H4
+CD268,BAFFR|Tnfrsf13c,Tnfrsf13c,BAFF-R|Lvis22|Bcmd-1|Baffr|Bcmd1|2010006P15Rik
+CD29,,Itgb1,beta1 integrin|4633401G24Rik|CD29|Fnrb|Gm9863
+CD48,,Cd48,BLAST-1|BCM1|Bcm-1|Sgp-60
+CD185,CXCR5|BLR1|Gpcr6,Cxcr5,Blr1|Gpcr6|CXCR-5
+CD186,CXCR6,Cxcr6,BONZO|STRL33
+CD160,,Cd160,By55
+CD1d,,Cd1d1,CD1.1|Ly-38|Cd1d|Cd1a
+CD104,,Itgb4,CD104
+CD105,,Eng,CD105|Endo
+CD11c,,Itgax,Cd11c|CD11C  (p150) alpha polypeptide
+CD121a,,Il1r1,CD121a|IL-iR|Il1r-1|IL-1 receptor alpha chain|IL-1R1
+CD123,,Il3ra,CD123|SUT-1|IL-3 receptor alpha chain
+CD127,,Il7r,CD127|IL-7 receptor alpha chain|IL-7Ralpha
+CD182,CXCR2|IL8Rb|CDw128|Cmkar2|Gpcr16,Cxcr2,CD128|Cmkar2|IL-8rb|IL-8Rh|IL8RA|Il8rb|Gpcr16
+CD140a,,Pdgfra,CD140a|Pdgfr-2
+CD157,,Bst1,CD157|Bp3|Ly65|Bsta1|114/A10
+CD16,,Fcgr3,CD16|Fcg receptor III|FcgammaRIII
+CD178,,Fasl,CD178|Fas-L|CD95L|APT1LG1|Fasl|Tnfsf6
+CD183,,Cxcr3,Cd183|Cxcr3|Cmkar3
+CD195,,Ccr5,CD195|Cmkbr5
+CD200R,,Cd200r1,CD200R|Mox2r|OX2R
+CD202b,,Tek,Cd202b|Tie2|Hyk|tie-2
+CD25,,Il2ra,CD25|Il2r|Ly-43|IL-2R alpha chain
+CD27,,Cd27,Cd27|Tnfrsf7|S152|Tp55
+CD30,,Tnfrsf8,CD30
+CD300d,,Cd300c2,Cd300d|AF251705|DIgR1|Igsf7|Clm4|LMIR2|MAIR-II
+CD301b,,Mgl2,CD301b
+CD153,,Tnfsf8,Cd30L|CD153|CD30LG
+CD38,,Cd38,Cd38-rs1
+CD3,,Cd3e,CD3epsilon|CD3|T3e
+CD3ε,CD3ε|CD3εchain|CD3|T3ε,Cd3e,CD3epsilon|CD3|T3e
+CD49e,,Itga5,Cd49e|Fnra
+CD66a,,Ceacam1,CD66a|Hv2|Bgp|Cc1|Cea-7|mCEA1|mmCGM2|Cea7|Bgp1|C-CAM|Cea1|MHVR1|Hv-2|mmCGM1|Cea-1|Mhv-1
+CD90.2,Thy-1.2|q-C3H,Thy1,CD90|Thy-1.2|Thy1.2|Thy 1.2|Thy1.1|Thy-1|T25
+CD94,,Klrd1,CD94
+CD150,,Slamf1,CDw150|CD150|Slam|ESTM51|IPO-3
+CD355,CRTAM,Crtam,class I-restricted T cell-associated molecule
+MAIR-IV,MAIRIV,Cd300ld,Clm5|4732429D16Rik|Cd300ld1|MAIR-IV
+CD300c,,Cd300c,Clm6
+CD184,,Cxcr4,Cmkar4|fusin|PB-CKR|b2b220Clo|CD184|Sdf1r
+CD196,CCR6|KY411|Cmkbr6|CC-CKR-6,Ccr6,Cmkbr6
+Ly-49H,Ly49H,Klra8,Cmv1|Ly49h|Ly49u<129>|Cmv-1
+Ly49H,,Klra8,Cmv1|Ly49h|Ly49u<129>|Cmv-1
+CD132,,Il2rg,common cytokine receptor gamma chain|gamma(c)|CD132|gc|gammaC|[g]c|common gamma chain|gamma C receptor
+CD11b,,Itgam,CR3|Mac-1 alpha|Mac-1|Mac-1a|CD11b/CD18|Cd11b|complement component receptor 3 alpha|CD11B  (p170)|complement receptor type 3|F730045J24Rik|Ly-40
+CD55,,Cd55,Cromer blood group|Daf1|complement-glycosylphosphatidylinositol|GPI-DAF|Daf-GPI
+NKG2D,,Klrk1,D6H12S2489E|Nkg2d|NKG2-D
+GARP,,Lrrc32,D7H11S833E|D11S833Eh|Garp|EG434215
+CD88,,C5ar1,D7Msu1|Cd88|C5aR|C5r1
+CD205,,Ly75,DEC-205|CD205
+DLL1,,Dll1,Delta1
+DLL4,,Dll4,Delta4
+PD-1H,PD1H,Vsir,Dies1|VISTA|4632428N05Rik|PD-1H
+VISTA,,Vsir,Dies1|VISTA|4632428N05Rik|PD-1H
+CD226,,Cd226,DNAM-1|Pta1|TLiSA1|DNAM1
+CD49b,,Itga2,DX5|CD49B|alpha 2 subunit|VLA-2 receptor
+CD324,E-Cadherin|Uvomorulin,Cdh1,E-cadherin|L-CAM|E-cad|uvomorulin|UM|Ecad
+CD49a,,Itga1,E130012M19Rik|Vla1|CD49A
+CD197,,Ccr7,Ebi1h|EBI1|Cmkbr7|CD197
+CD73,,Nt5e,ecto-5'-nucleotidase|2210401F01Rik|Nt5|CD73
+CD326,,Epcam,EpCAM|Tacstd1|TROP1|EpCAM1|gp40|Ep-CAM|EGP-2|Egp314|panepithelial glycoprotein 314|CD326|Ly74|GA733-2
+CD36,,Cd36,FAT|Scarb3|fatty acid translocase
+CD64,,Fcgr1,FcgammaRI|CD64
+CD32,,Fcgr2b,FcgammaRIIB|FcgRII|F630109E10Rik|Ly-17|Fcgr2|Fc gamma RIIB|Fcgr2a|CD32|Ly-m20|Fcr-2|Fc[g]RII|LyM-1|Fcr-3
+CD309,VEGFR2|Flk-1|KDR,Kdr,Flk1|VEGFR-2|vascular endothelial growth factor receptor- 2|Flk-1|VEGF receptor-2|orv|VEGFR2
+CD135,,Flt3,Flt-3|Flk-2|CD135|wmfl|Flk2
+CD115,,Csf1r,Fms|Fim2|CD115|CSF-1R|Fim-2|M-CSFR|Csfmr
+Galectin-9,Galectin9,Lgals9,gal-9|LGALS35|Lgals5|galectin-9
+CD357,TNFRSF18|Tumornecrosisfactorreceptorsuperfamily|member18|GITR,Tnfrsf18,Gitr
+CD41,,Itga2b,GP IIb|CD41|platelet glycoprotein IIb|GpIIb|alphaIIb
+CD130,,Il6st,gp130|D13Ertd699e|CD130|5133400A03Rik
+CD85k,,Lilrb4a,Gp49b|Lilrb4|ILT3|HM18|CD85K
+PIR-B,PIRB,Pirb,Gp91|Lilrb3
+XCR1,,Xcr1,GPR5|XCR1|C motif-1/lymphotactin receptor|Ccxcr1
+Ly-6G,Ly6G,Ly6g,Gr1|Gr-1|Ly-6G
+Ly-6G,Ly6G,Ly6g,Gr1|Gr-1|Ly-6G
+CD317,BST2,Bst2,GREG|2310015I10Rik|Bst-2|C87040
+CD117,,Kit,Gsfsow3|c-KIT|Steel Factor Receptor|belly-spot|SOW3|Dominant white spotting|Gsfsco5|SCO5|Tr-kit|SCO1|Gsfsco1|CD117
+CD44,,Cd44,HERMES|Pgp-1|Ly-24
+Notch3,,Notch3,hpbk|N3
+HVEM,,Tnfrsf14,Hvem|Atar|HveA
+CD54,,Icam1,Icam-1|Ly-47|MALA-2|CD54
+IFNAR-1,IFNAR1,Ifnar1,IFN-alpha/betaR|Ifrc|Ifar
+IgM,,Ighm,Ig mu|Igh-M|Igh6|muH|IgM
+CD79b,,Cd79b,Igb|Igbeta|B29|Ig-beta
+IgD,,Ighd,IgD
+CD124,,Il4ra,IL-4 receptor alpha chain|CD124|Il4r
+CD122,,Il2rb,IL15Rbeta|Il-2Rbeta|IL-2/15Rbeta|CD122|IL-15Rbeta|IL-15 receptor beta chain
+CD126,,Il6ra,Il6r|CD126|IL-6R|IL-6 receptor alpha chain
+Notch4,,Notch4,Int3|N4|Int-3
+Mac-2,Mac2,Lgals3,L-34|gal3|galectin-3|Mac-2
+Mac-3,Mac3,Lamp2,Lamp-2|CD107b|Mac3|Lamp-2b|Lamp-2c|Lamp-2a
+CD207,,Cd207,Langerin
+CD43,,Spn,leukosialin|Galgp|Ly-48|Cd43|3E8 antigen|Ly48|A630014B01Rik
+CD275,B7-H2|GL50|B7RP-1|B7h|GI50|LICOS|B7RP-1|GL50-B|ICOS-L|Icoslg|Ly115l|AU044799|BG071784|KIAA0653|mKIAA0653|Icosl,Icosl,LICOS|B7RP-1|ICOS-L|GL50-B|GL50|B7-H2|B7h
+CD62L,,Sell,Lnhr|Lyam1|LECAM-1|Lyam-1|Ly-m22|CD62L|Ly-22|L-selectin
+CD23,,Fcer2a,low-affinity IgE receptor|CD23|FC epsilon RII|Fce2|Ly-42
+TLR4,CD284,Tlr4,Lps|Rasl2-8|lipopolysaccharide response
+CD90.2,LRP|A2MR|AI316852|a2-Macroglobulinreceptor,Mvp,LRP|2310009M24Rik|VAULT1
+CD5,,Cd5,Ly-1|Ly-A|Lyt-1|Ly-12
+CD11a,,Itgal,Ly-21|Cd11a|LFA-1|Ly-15
+CD8b,Ly-3|Lyt-3|Ly-C|CD8b1,Cd8b1,Ly-3|Ly-C|Lyt-3
+CD8a,,Cd8a,Ly-35|Ly-B|Lyt-2|Ly-2
+CD4,,Cd4,Ly-4|L3T4
+CD20,,Ms4a1,Ly-44|Cd20
+Ly-51,Ly51,Enpep,Ly-51|6030431M22Rik|APA|Ly51|aminopeptidase-A|Bp-1/6C3
+CD80,,Cd80,Ly-53|Cd28l|B7.1|Ly53|B7-1
+CD152,,Ctla4,Ly-56|Ctla-4|Cd152
+Ly-6A,Ly6A,Ly6a,Ly-6A.2|Ly-6A/E|Sca-1|Sca1|TAP|Ly-6E.1
+Ly-6C,Ly6C,Ly6c1,Ly-6C|Ly6c
+Ly-6C,Ly6C,Ly6c1,Ly-6C|Ly6c
+CD2,,Cd2,Ly37|LFA-2|Ly-37
+Ly-49A,Ly49A,Klra1,Ly49A|Ly49o<129>
+Ly-49F,Ly49F,Klra6,Ly49F
+Ly-49I,Ly49I,Klra9,LY49I1|Ly49I
+Ly49D,,Klra4,ly49r<129>|Ly49d|Chok
+NK-1.1,NK1.1,Klrb1c,Ly55c|Ly59|CD161|NKR-P1|Nk1|NK-RP1|Nk1.1|Nk-1.2|NK-1.1|NKR-P1C|Nkrp1-c|Ly-59|Nk-1
+CD86,,Cd86,Ly58|Ly-58|B7.2|MB7-2|B70|B7-2|Cd28l2
+Ly-6D,Ly6D,Ly6d,Ly61|Ly-61|Thb
+CD223,,Lag3,Ly66|LAG-3|CD223
+CD93,,Cd93,Ly68|C1qrp|AA4.1|C1qr1|6030404G09Rik
+F4/80,,Adgre1,Ly71|TM7LN3|Emr1|F4/80|DD7A5-7|EGF-TM7
+CD180,,Cd180,Ly78|RP105
+CD22,,Cd22,Lyb-8|Lyb8
+CD18,,Itgb2,Mac-1 beta|Cd18|2E6
+MD-1,MD1,Ly86,MD-1|MD1
+CD98,,Slc3a2,Mdu1|Mgp-2hc|Ly-m10|Cd98|4F2HC|Ly-10
+CD63,,Cd63,ME491|Tspan30
+CD193,CCR3|MIP-1aRL2|CKR3|Cmkbr3|CC-CKR3|Cmkbr1l2|MGC124265|MGC124266|Ccr3,Ccr3,MIP-1 alphaRL2|CC-CKR3|Cmkbr3|CKR3
+Notch2,,Notch2,Motch B|N2
+Notch1,,Notch1,N1|Mis6|lin-12|9930111A19Rik|Motch A|Tan1
+CD24,HeatStableAntigen|Ly-52|Nectadrin,Cd24a,nectadrin|Ly-52|cluster of differentiation 24|HSA|heat stable antigen
+CD300LG,,Cd300lg,nepmucin|2310016B05Rik|Clm9|D11Ertd736e
+CD304,BDCA4|Neuropilin1|NP-1,Nrp1,Neuropilin-1|Npn1|NP-1|NPN-1
+LAP,,Cebpb,NF-IL6|IL-6DBP|Nfil6|C/EBPbeta|LIP|NF-M|C/EBP BETA|LAP|CRP2
+IL-21R,IL21R,Il21r,NILR
+Ly-49C,Ly49C,Klra3,NK-2.1|Ly49c|5E6|Nk2.1|Nk-2|Nk2
+CD159a,,Klrc1,NKG2B|CD159a|NKG2A
+CD335,NKp46|Ly-94,Ncr1,NKp46|MAR1 (mouse activating receptor 1)|Ly94
+CD39,,Entpd1,NTPDase-1|ectoapyrase|Cd39|2610206B08Rik
+MERTK,Mer,Mertk,Nyk|Mer|nmf12|Tyro 12|Eyk
+CD200,,Cd200,OX2|MRC OX-2|Mox2
+CD120b,,Tnfrsf1b,p75 TNFR|TNF-alphaR2|TNFalpha-R2|TNFRII|CD120b|TNF-R75|TNF-R-II|Tnfr2|TNFBR|TNFR80|TNF-R2|p75
+CD279,PD-1|Programmeddeath-1|Pdc1|Ly101,Pdcd1,PD-1|Pdc1
+CD274,,Cd274,PD-L1|B7-H1|Pdcd1lg1
+CD140b,,Pdgfrb,Pdgfr|CD140b
+CD31,,Pecam1,PECAM-1|Cd31
+CD107a,,Lamp1,Perk|CD107a|Lamp-1
+CD61,,Itgb3,platelet glycoprotein IIIa  (GP3A)|CD61
+CD133,,Prom1,Prom-1|CD133|4932416E19Rik|AC133|Prom
+CD59a,,Cd59a,protectin|Cd59
+CD254,ODF|OPG|OPGL|RANKL|Trance|Tnfsf11,Tnfsf11,RANKL|OPGL|Trance|ODF|Ly109l|osteoclast differentiation factor
+CD100,,Sema4d,Semcl2|coll-4|CD100|Semacl2|M-sema G|Semaj|semaphorin H
+Ly108,,Slamf6,SF2000|NTB-A|KAL1|KAL1b|Ly108
+CD172a,,Sirpa,SHPS-1|Bit|SIRP|P84|CD172a|Ptpns1
+CD169,,Siglec1,Siglec-1|Sn|CD169
+SiglecH,,Siglech,Siglec-H|6430529G09Rik
+CD138,,Sdc1,Synd|Synd1|syn-1|CD138
+CD229,Ly-9,Ly9,T100|Lgp100|SLAMF3|CD229
+B220,,Ptprc,T200|B220|CD45|Lyt-4|Ly-5
+CD45,,Ptprc,T200|B220|CD45|Lyt-4|Ly-5
+CD45R,B220|Ly-5|Lyt-4|T200|ProteintyrosinephosphatasereceptortypeC(PTPRC),Ptprc,T200|B220|CD45|Lyt-4|Ly-5
+CD155,,Pvr,Taa1|D7Ertd458e|Tage4|CD155|3830421F03Rik|mE4|necl-5
+CD267,TACI|Tnfrsf13b,Tnfrsf13b,Taci|1200009E08Rik
+CD96,,Cd96,Tactile|1700109I12Rik
+CD81,,Cd81,Tapa-1|Tapa1|Tspan28
+Tim-2,Tim2,Timd2,Tim2|TIM-2
+CD120a,,Tnfrsf1a,TNFAR|TNF receptor alpha chain|p55|TNF-R1|CD120a|TNFRI|TNFRp55|Tnfr1|TNF-alpha-R1|TNF-R-I|TNF-R55|TNFalpha-R1|TNFR60|p55-R|TNF-alphaR1
+CD40,,Cd40,Tnfrsf5|Bp50|Cd40|p50
+CD154,,Cd40lg,Tnfsf5|HIGM1|IMD3|Ly-62|gp39|CD154|T-BAM|Cd40L
+CD70,,Cd70,Tnfsf7|CD27LG|Ki-24 antigen
+DR3,,Tnfrsf25,TRAMP|Wsl|Tnfrsf12|DR3|WSL-1|APO-3|TR3|LARD|WSL-LR|DDR3
+CD265,RANK|TRANCE-R|ODFR|Tnfrsf11a,Tnfrsf11a,TRANCE-R|Rank
+CD262,TRAIL-R2|Apo2|DR5|TRICK2|KILLER,Tnfrsf10b,TRICK2B|KILLER|TRAIL-R2|Killer/Dr5|TRAILR2|Ly98|Trail Receptor|TRICK2A|TRICKB|DR5
+Ly-6E,Ly6E,Ly6e,Tsa1|RIG-E|TSA-1|Sca-2|9804|Ly67
+CD37,,Cd37,Tspan26
+CD9,,Cd9,Tspan29
+CD106,,Vcam1,Vcam-1|CD106
+CD69,,Cd69,VEA|AIM|5830438K24Rik
+CD144,,Cdh5,VECD|VEC|VE-Cad|CD144|VEcad|VE-cadherin|7B4/cadherin-5
+CD179a,VpreB,Vpreb1,Vpreb-1|CD179a
+TIGIT,,Tigit,Vstm3|ENSMUSG00000071552
+ESAM,,Esam,W117m|2310008D05Rik
+CD19,,Cd19,
+CX3CR1,,Cx3cr1,
+CD83,,Cd83,
+IL-23R,IL23R,Il23r,
+MadCAM-1,MadCAM1,Madcam1,
+CD6,,Cd6,
+CD28,,Cd28,
+CD34,,Cd34,
+CD14,,Cd14,
+33D1,,,
+4-1BBLigand,,Tnfsf9,4-1BB-L|Cd137l|4-1BBL|4-1BB ligand|Ly63l
+CD16.2,,,
+CD194,,Ccr4,CC CKR-4|Cmkbr4
+CD198,,Ccr8,Cmkbr8
+CD199,,Ccr9,GPR-9-6|Cmkbr10
+"CD21,CD35",,Cr2,C3DR|Cr-2|CD35|Cr1|Cr-1|CD21
+CD210,,Il10ra,CDw210|mIL-10R|Il10r
+CD255,,Tnfsf12,APO3L|Tweak|DR3L
+CD272,BTLA|B-andTLymphocytes|MGC124217|MGC124218|A630002H24,Btla,
+CD278,ICOS|Ly115|H4|AILIM,Icos,
+CD301,,Clec10a,CD301a|Mgl1
+CD339,Jagged-1|Serrate1,Jag1,Ozz|Gsfabe2|Headturner|Serrate-1|Htu|ABE2
+CD351,FCAMR|Fcreceptor|IgA|IgM|highaffinity,Fcamr,
+CD365,,Havcr1,Tim1|TIM-1|KIM-1
+CD366,,Havcr2,TIM-3|Timd3|Tim3
+CD369,,Clec7a,Clecsf12|beta-GR|beta-glucan receptor|dectin-1|BGR
+CD370,,Clec9a,DNGR-1|9830005G06Rik
+CD371,,Clec12a,Micl
+CD45.1,Ly-5.1|Ly-5a|PTPRCa,,
+CD45.2,Ly-5.2|Ly-5b|PTPRCb,,
+CD45RB,,Ptprcap,CD-45-AP|LSM-1
+CD49d,VLA-4a|Integrina4,Itga4,alpha 4 subunit|VLA-4 receptor
+CD90.1,Thy-1.1|q-AKR,,
+DcTRAIL-R1,,Tnfrsf23,Tnfrh1|mDcTrailr1|mSOB
+FR4,,Izumo1r,0910001L11Rik|Folr4|Folbp3|Juno
+FcεRIa,,Fcer1a,FcERI|Fcr-5|Fce1a
+GITRLigand,,Tnfsf18,GITR ligand|Gitrl
+GL7,,,
+H-2,,H2-Bl,blastocyst MHC
+I-A,,H2-Ab1,H2-Ab|I-A<b>|I-Abeta|A beta|Ia2|IAb|Ia-2|Abeta|Rmcs1|H-2Ab
+I-E,,H2-Eb1,Ia4|H-2Eb|Ia-4
+IFN-gRchain,,Ifngr2,Ifgr2|Ifgt
+IL-33Ra,,Il1rl1,T1/ST2|DER4|ST2L|St2|T1|St2-rs1|T1 gene|Ly84|Fit-1
+Iglightchainκ,,Igkc,nan
+Integrinb7,,Itgb7,nan
+Jagged2,,Jag2,D12Ggc2e|Serh
+LPAM-1,,Itgb7,nan
+LTR,,Tnf,DIF|Tnfsf1a|TNFalpha|tumor necrosis factor-alpha|Tnfa|TNF alpha|TNF-alpha
+MAIR-V,,Cd300lf,LMIR3|Pigr3|IREM1|CLM-1|DIgR2|IgSF13|F730004D16Rik
+MD2Complex,,Tlr4,Lps|Rasl2-8|lipopolysaccharide response
+MD2Complex,,Ly96,MD2|ESOP-1|MD-2|myeloid differentiation factor-2
+PDC-TREM,,Trem1,nan
+PIR-A,,Pir,Pirnl|pirin|iron-binding nuclear protein|2310042L19Rik
+PlexinB2,,Plxnb2,Debt|1110007H23Rik
+Podoplanin,,Pdpn,OTS-8|RANDAM-2|T1alpha|PA2.26|Gp38|T1a
+RAE-1g,,Rae1,41|D2Ertd342e|MNRP|MNRP41
+TCRVg1.1+Vg1.2,,Trgv1,Gm16602|Tcrg-V1
+TCRbchain,,Trbc1,Tcrb-C1|Gm16802
+TCRd,,Trdv2-1,ENSMUSG00000068352
+TCRd,,Trdv5,Gm6683
+TCRd,,Trdv2-2,Gm17015
+TCRd,,Trdv4,nan
+TCRd,,Trdv1,nan
+TCRd,,Trdv3,nan
+TCRg,,Trgv3,Tcrg-V3|vgamma3
+TCRg,,Trgv4,Tcrg-V4
+TCRg,,Trgv6,Tcrg-V6
+TCRg,,Trgv2,Vgamma2|Tcrg-V2
+TCRg,,Trgv7,Tcrg-V7
+TCRg,,Trgv5,Tcrg-V5
+TCRg,,Trgv1,Gm16602|Tcrg-V1
+TER-119,,,
+TLT-2,,Treml2,LOC328833
+Trem-like4,,Treml4,5031403H21Rik

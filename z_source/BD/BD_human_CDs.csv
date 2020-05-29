@@ -1,0 +1,419 @@
+﻿CD,Alternative Name
+CD1a,R4;T6
+CD1b,R1; T6
+CD1c,M241; R7; T6
+CD1d,R3G1
+CD1e,cR2
+CD2,E-rosette R; Erythrocyte R; T11; LFA-2
+CD3,T3
+CD3d,δ Polypeptide (TiT3 complex)
+CD3e,T3e
+CD3g,T3G
+CD4,L3T4; W3/25; T4
+CD5,T1; Tp67; Leu-1; Ly-1
+CD6,T12; TP120
+CD7,gp40; TP41
+CD8a,Leu2; T8; Lyt2;3
+CD8b,CD8; Leu2; Lyt3
+CD9,p24; DRAP-1; MRP-1
+CD10,CALLA; NEP; gp100; EC 3.4.24.11; MME
+CD11a,LFA-1α; Integrin αL
+CD11b,Integrin αM; CR3; Mo1; C3niR; Mac-1
+CD11c,Integrin αX; p150;95; AXb2; CR4
+CD11d,Integrin αD; ITGAD; ADB2
+CDw12,p90-120
+CD13,ANPEP; Aminopeptidase N; AAP; APM; LAP1; P150; PEPN; APN; gp150; EC 3.4.11.2
+CD14,LPS-Receptor
+CD15,X-Hapten; Lewis X; SSEA-1; 3-FAL; FUT4
+CD16,FCRIIIA; CD16a
+CD16b,FCRIIIB
+CD17,Lactosylceramide; LacCer
+CD18,Integrin β2; CD11a; b; c β-subunit
+CD19,B4
+CD20,B1; Bp35
+CD21,CR2; EBV-R; C3dR
+CD22,BL-CAM; Siglec-2
+CD23,FceRII; B6; BLAST-2; Leu-20
+CD24,BBA-1; HSA
+CD25,Tac antigen; IL-2Rα; p55; TCGFR
+CD26,DPP IV ectoenzyme; ADA binding protein; ADCP2; TP103
+CD27,T14; S152; TP55; TNFRSF7
+CD28,Tp44; T44
+CD29,Platelet GPIIa; Integrin β1; GP
+CD30,Ber-H2; Ki-1
+CD31,PECAM-1; endoCAM; Platelet endothelial cell adhesion molecule; PECA1
+CD32a,FCγRII; Fc-γ receptor 2; FCGR2A; Low affinity immunoglobulin γ Fc receptor II
+CD32b,FCG2; FCGR2B; IGFR2
+CD32c,FCG2; FCGR2C; IGFR2
+CD33,gp67; SIGLEC-3; Sialic acid-binding Ig-like lectin 3; Myeloid cell surface antigen CD33
+CD34,gp105-120; Hematopoietic progenitor cell antigen 1 (HPCA1)
+CD35,CR1; C3b/C4b receptor; Complement receptor 1; Immune Adherence receptor
+CD36,Platelet glycoprotein 4; Glycoprotein IIIb (GpIIIb); Glycoprotein IV (GPIV); PASIV; Fatty acid translocase (FAT); SCARB3; GP88
+CD37,gp52-40; Leukocyte antigen CD37; Tet- raspanin-26; TSPAN26
+CD38,ADP-ribosyl cyclase; T10; Cyclic ADP-ribose hydrolase 1
+CD39,Ectonucleoside triphosphate diphospho- hydrolase 1 (ENTPD1); ATPdehydrogenase; NTPdehydrogenase-1
+CD40,Bp50; MGC9013; TNFRSF5; Tumor necrosis factor receptor superfamily member 5
+CD41,GPIIb; Integrin αIIb; Platelet membrane glycoprotein IIb; ITGA2B; Integrin α2b; Human Platelet Antigen-3 (HPA-3)
+CD42a,GPIX; GP9; Platelet glycoprotein IX
+CD42b,GPIbα; Platelet glycoprotein Ib α
+CD42c,GPIbβ; Platelet glycoprotein Ib β
+CD42d,GPV; Platelet glycoprotein V
+CD43,Sialophorin; Leukosialin; Galactoglycoprotein; SPN
+CD44,ECMRII; H-CAM; Pgp-1; Phagocytic glyco- protein I; Extracellular matrix receptor III; GP90 Lymphocyte homing/adhesion receptor; Hyaluronate receptor
+CD45,Leukocyte Common Antigen (LCA); T200; B220; Ly5; Protein tyrosine phosphatase receptor type C (PTPRC)
+CD45RA,PTPRC
+CD45RB,PTPRC
+CD45RC,PTPRC
+CD45RO,
+CD46,Membrane Cofactor Protein (MCP); Tropho- blast leukocyte common antigen; TRA2.10
+CD47,gp42; IAP; OA3; Neurophilin; MER6
+CD48,Blast-1; Hulym3; BCM-1; OX-45; MEM-102
+CD49a,VLA-1α; Integrin α1
+CD49b,VLA-2α; Integrin α2; gPIa
+CD49c,VLA-3α; Integrin α3; GAPB3; Galactoprotein B3; MSK18; Very Common Antigen-2 (VCA-2)
+CD49d,VLA-4α; Integrin α4
+CD49e,VLA-5α; Integrin α5; Fibronectin receptor
+CD49f,VLA-6α; Integrin α6; gpI
+CD50,ICAM-3
+CD51,Integrin αv; VNR-α; Vitronectin-Rα
+CD52,CAMPATH-1; HE5; Epididymal secretory protein E52
+CD53,MOX44; TSPAN25; Tetraspanin-25
+CD54,ICAM-1
+CD55,Decay Accelerating Factor for Complement (DAF)
+CD56,Leu-19; NKH-1; Neural Cell Adhesion Molecule (NCAM)
+CD57,HNK1; Leu-7; β-1;3-glucuronyltransferase 1; Glucuronosyltransferase P; galactosylgalactosyl- xylosylprotein 3-β-glucuronosyltransferase 1
+CD58,LFA-3
+CD59,1F5Ag; H19; Protectin; MACIF; MIRL; P-18
+CD60a,GD3
+CD61,GP IIIa; Integrin β3
+CD62E,E-Selectin; ELAM-1; LECAM-2
+CD62L,L-Selectin; LAM-1; LECAM-1; MEL-14; Leu8; TQ1
+CD62P,P-Selectin; GMP-140; PADGEM
+CD63,"LIMP; MLA1; gp55; NGA; LAMP-3; ME491;
+OMA81H; TSPAN30; Granulophysin; Mela- noma 1 antigen"
+CD64a,FcgRI; Fc-γ Receptor 1; High affinity immuno- globulin γ Fc Receptor I; FcgRIA
+CD65,Ceramide-dodecasaccharide; VIM2; Fucogan- glioside (Type II)
+CD65s,Sialylated poly-N-acetyllactosamine; Sialylated- CD65; VIM2
+CD66a,CD66; NCA-160; BGP (Biliary glcoprotein); BGP1; BGPI; CEACAM1
+CD66b,CD67; CGM6; NCA-95; CEACAM8
+CD66c,NCA; NCA-50/90;CEAL; CEACAM6
+CD66d,CGM1; CEACAM3
+CD66e,CEA CEACAM5
+CD66f,"B1G1; CD66f; DHFRP2; FLJ90598; FLJ90654; PBG1; PSBG1; PSGGA; PSGIIA; SP1
+SP-1; PSBG1; B1G1; PBG1; PSGGA"
+CD68,gp110; Macrosialin; SCARD1
+CD69,AIM; EA 1; MLR3; gp34/28; VEA; CLEC2C; BL-AP26
+CD70,TNFSF7; CD27LG; CD27L; Ki-24
+CD71,TFRC; T9; Transferrin receptor; TFR; TRFR
+CD72,Ly-19.2; Ly-32.2; Lyb2
+CD73,Ecto-5’-nuclotidase; NT5E; E5NT; NT5; NTE; eN; eNT
+CD74,DHLAG; HLADG; Ia-γ; li; invariant chain
+CD75,"ST6GAL1; MGC48859; SIAT1; ST6GALL; ST6N;
+ST6 β-Galactosamide α-2;6-sialyltranferase; Sialo-masked lactosamine; Carbohydrate of α2;6 sialyltransferase"
+CD75S,α2;6 Sialylated lactosamine
+CD77,A14GALT (α1;4-Galactosyltransferase); A4GALT1; Gb3S; P(k); P1; PK A4GALT; Pk anti- gen; BLA; CTH/Gb3A4GALT1; Gb3S; P(k); P1; PK
+CD79a,IGA (Immunoglobulin-associated α); MB-1
+CD79b,IGB (Immunoglobulin-associated β); B29
+CD80,CD28LG; CD28LG1; L AB7; B7; B7-1; BB1
+CD81,TAPA1; S5.7
+CD82,4F9; C33; IA4; KAI1; R2; ST6; SAR2; GR15
+CD83,HB15; BL11
+CD84,LY9B; SLAMF5; p75; GR6; hly9-β
+CD85A,ILT5; LIR3; HL9; LILRB3 (Leukocyte immu- noglobulin-like receptor; subfamily B (with TM and ITIM domains); member 3; LIR-3; MGC138403; PIRB; XXbac-BCX105G6.7
+CD85C,LILRB5 (Leukocyte immunoglobulin-like recep- tor; subfamily B)(with TM and ITIM domains); member 5; LIR8
+CD85D*,LILRB2 (Leukocyte immunoglobulin-like recep- tor; subfamily B (with TM and ITIM domains); member 2; LILRB2; ILT4; LIR2; MIR10; MIR-10
+CD85E,LILRA3 (Leukocyte immunoglobulin-like recep- tor; subfamily A (without TM domain); member 3; HM31; HM43; ILT6; LIR-4; LIR4;e3
+CD85F,"XXbac-BCX403H19.2; CD85; CD85F;LIR9;
+ILT11; LILRB7 (Leukocyte immunoglobulin- like receptor; subfamily B (with TM and ITIM domains); member 7"
+CD85G,LILRA4 (Leukocyte immunoglobulin-like recep- tor; subfamily A (with TM domain); member 4; ILT7; MGC129597; MGC129598
+CD85H,LILRA2 (Leukocyte immunoglobulin-like recep- tor; subfamily A (with TM domain); member 2; ILT1; LIR7; LIR-7; XXbac-BCX85G21.2; ILT-1
+CD85I,LILRA1 (Leukocyte immunoglobulin-like recep- tor); subfamily A (with TM domain); member 1; LIR-6; LIR6; MGC126563
+CD85J*,LILRB1 (Leukocyte immunoglobulin-like recep- tor; subfamily B (with TM and ITIM domains); member 1; FLJ37515; ILT2; LIR-1; LIR1; MIR-7; MIR7
+CD85K*,LILRB4 (Leukocyte immunoglobulin-like recep- tor; subfamily B (with TM and ITIM domains); member 4; ILT3; LIR-5; HM18; LIR5; LILRB5
+CD86,B7-2/B70; CD28LG2; LAB72; MGC34413
+CD87,Upar; PLAUR; URKR
+CD88,C5R1; C5aR; C5AR; C5A
+CD89,FCAR
+CD90,Thy-1
+CD91,LRP1; α2M-R; α2MR; APOER; APR; LRP
+CD92,SLC44A1; CTL1; CHTL1; RP11-287A8.1; p70
+CD93,C1QR1;C1qRP; MXRA4; C1qR(P); Dj737e23.1; GR11
+CD94,KLRD1; Kp43
+CD95,CD178; FASLG; APO-1; FAS; TNFRSF6; CD95L; APT1LG1; APT1; FAS1; FASTM; ALPS1A; TNFSF6; FASL
+CD96,TACTILE; MGC22596
+CD97,TM&LN1; BL-KDD/F12
+CD98,SLC3A2; 4F2; 4F2HC; 4T2HC; MDU1; NACAE; FRP-1; RL-388
+CD99,MIC2; E2 antigen; MIC2X; MIC2Y;HBA71; MSK5X
+CD99R,CD99 Mab restricted
+CD100,SEMAJ; coll-4; C9orf164; FLJ33485; FLJ34282; FLJ39737; FLJ46484; M-sema-G; MGC169138; MGC169141; SEMA4D; SEMAJ
+CD101,IGSF2; P126; V7; BA27; BPC#4; P126; V7-LSB
+CD102,ICAM-2; Ly60
+CD103,HML-1; Integrin αE; ITGAE; OX62; HML1
+CD104,Integrin β4; TSP1180; ITGB4; TSP-180
+CD105,Endoglin; HHT1; ORW; SH-2
+CD106,VCAM-1; INCAM-100
+CD107a,LAMP-1; LAMPA; CD107a; LGP120
+CD107b,LAMP-2; LAMPB
+CD108,SEMA7A; JMH blood group antigen
+CD109,"8A3; E123 7D1;150kD TGF-β-1-binding
+protein; Platelet-specific Gov antigen"
+CD110,TPO-R; MPL; C-MPL
+CD111,PVRL1; HveC; PRR1; Nectin1; HIgR;CLPED1
+CD112,HveB; PRR2; PVRL2; Nectin2
+CD113,PVRL3; Nectin3; PRR3
+CD114,CSF3R; G-CSFR; HG-CSFR
+CD115,c-fms; CSF-1R; M-CSFR; FIM2; FMS
+CD116,GM-CSFRα; CDw116; CSF2R; CSF2RAX; CSF2RAY; CSF2RX; CSF2RY; GM-CSF-R-α; GMCSFR; GMR; MGC3848; MGC4838
+CD117,c-KIT; SCFR; PBT
+CD118,LIFR; gp190; SJS2; STWS; SWS
+CD119,IFNγR; IFNγRa
+CD120a,"CD120a; FPF; MGC19588; TBP1; TNF-R; TNF-
+R-I; TNF-R55; TNFAR; TNFR1; TNFR55; TNFR60; p55; p55-R; p60"
+CD120b,TNFRII; p75; TNFR p80
+CD121a,Type 1 IL-1R;CD121A; D2S1473; IL-1R-α; IL1R; IL1RA; P80
+CD121b,Type 2 IL-1R
+CD122,IL2Rβ; p70-75
+CD123,CD123; IL3R; IL3RAY; IL3RX; IL3RY; MGC34174; hIL-3Ra
+CD124,IL-4Rα
+CD125,IL-5Rα
+CD126,IL-6Rα
+CD127,p90; IL-7R; IL-7Rα
+CD129,IL-9Rα
+CD130,gp130; IL6ST; IL6-β or CD130
+CD131,CSF2RB; IL3RB; IL5RB; CDw131
+CD132,Common γ chain; IL-2Rγ
+CD133,AC133; PROML1; Prominin 1; Hematopoietic stem cell antigen
+CD134,OX40; TNFRSF4
+CD135,Flt3; Flk2; STK1
+CD136,MSP-R; RON; p158-ron
+CD137,4-1BB; ILA; TNFRSF9
+CD138,Syndecan-1; Heparan sulfate proteoglycan
+CD139,None
+CD140a,PDGF α Receptor
+CD140b,PDGF β Receptor
+CD141,Thrombomodulin; Fetomodulin
+CD142,Tissue factor; Thromboplastin; F3
+CD143,ACE; Peptidyl dipeptidase A; Kininase II; DCP; DCP1
+CD144,VE-Cadherin; Cadherin-5
+CDw145,None
+CD146,Muc 18; S-endo; MCAM; Mel-CAM
+CD147,Basigin; EMMPRIN; M6; OX47; TCSF
+CD148,HPTP-η; p260; DEP-1; SCC1
+CD150,SLAM; IPO-3
+CD151,PETA-3; SFA-1
+CD152,CTLA-4
+CD153,CD30L; TNSF8
+CD154,CD40L; gp39; TRAP-1; T-BAM; IMD3
+CD155,PVR; PVS; TAGE4; HVED
+CD156a,CD156; ADAM8; MS2
+CD156b,TACE; ADAM17; cSVP
+CD156C,ADAM10; MADM; kuz
+CD157,Mo5; BST-1
+CD158a,KIR2DL1; p58.1; NKAT1
+CD158b1,KIR2DL2; p58.2; NKAT6
+CD158b2,KIR2DL3; p58.3; NKAT2
+CD158d,KIR2DL4; KIR103
+CD158e1/e2,KIR3DLI/S1; p70; NKAT3; NKB1
+CD158f,KIR2DL5
+CD158g,KIR2DS5
+CD158h,KIR2DS1; p50.1
+CD158i,KIR2DS4; p50.3
+CD158j,KIR2DS2; p50.2
+CD158k,KIR3DL2; p140
+CD159a,NKG2A
+CD159c,NKG2C
+CD160,BY55; NK1; NK28
+CD161,NKR; NKRP1A
+CD162,PSGL-1
+CD163,M130; GHI/61; RM3/1
+CD164,MGC-24; MUC-24
+CD165,AD2; gp37
+CD166,ALCAM; KG-CAM; SC-1; BEN; DM-GRASP
+CD167a,DDR1; trkE; cak
+CD168,RHAMM; IHABP; HMMR
+CD169,Sialoadhesin; Siglec-1
+CD170,Siglec-5
+CD171,L1CAM; HSAS; HSAS1; MASA; MIC5; N- CAML1; S10; SPG1; NILE
+CD172a,BIT; MFR; MYD-1; P84; SHPS-1; SHPS1; SIRP; SIRPα; SIRPα2
+CD172b,SIRPβ
+CD172g,SIRPγ; SIRP-B2; bA77C3.1
+CD173,Blood group H type 2; FUT1
+CD174,Lewis Y; FUT3; Les; FT3B
+CD175,Tn
+CD175s,Sialyl-Tn (s-Tn)
+CD176,TF Antigen
+CD177,NB1; HNA-2a; NB1gp; Neutrophil-specific antigen 1; PRV1
+CD178,Fas Ligand; FASL; CD95L; TNFSF6; APT1LG1
+CD179a,VpreB; IGVPB; VPREB1
+CD179b,lambda5; 14.1; IGL5; IGGL1
+CD180,RP105; Bgp95; Ly64; Ly78;
+CD181,(formerly CD128a) CXCR1; IL-8Rα
+CD182,(formerly CD128b) CXCR2; IL-8Rβ; CMKAR2; IL8R2
+CD183,CXCR3; GPR9; CKR-L2; CMKAR3; IP10; Mig-R; TAC
+CD184,CXCR4; NPY3R; Fusin; CMKAR4; LESTR; HM89; FB22; LCR1
+CD185,CXCR5; BLR1; MDR15; MGC117347
+CD186,CXCR6; STRL33; TYMSTR; BONZO
+CD191,CCR1; CKR1; CD191; CKR-1; HM145; CMKBR1; MIP1αR; SCYAR1
+CD192,CCR2; CKR2; CCR2A; CCR2B; CKR2A; CKR2B; CMKBR2; MCP-1-R; CC-CKR-2; FLJ78302; MGC103828; MGC111760; MGC168006
+CD193,CCR3; CKR3; CMKBR3; CC-CKR-3; MGC102841
+CD194,CCR4; CC-CKR-4; CKR4; CMKBR4; ChemR13; HGCN
+CD195,CCR5; CMKBR5; IDDM22; CC-CKR-5; FLJ78003
+CD196,"CCR6; BN-1; DCR2; DRY6; CKRL3; GPR29;
+CKR-L3; CMKBR6; GPRCY4; STRL22; CC-CKR-6"
+CD197,CCR7 (formerly CDw197); BLR2; EBI1; CMKBR7
+CDw198,CCR8;CKR-L1; CKRL1; CMKBR8; CMKBRL2; CY6; GPR-CY6; TER1
+CDw199,CCR9; GPR28; GPR-9-6
+CD200,OX2; MRC; MOX1; MOX2
+CD201,EPCR; CCCA; CCD41; MGC23024; bA42O4.2; PROCR
+CD202b,TEK; Tie2; VMCM; TIE-2; VMCM1
+CD203c,PDNP3; B10; PDIβ; E-NPP3
+CD204,MSR; SR-A; phSR1; phSR2; SCARA1; MSR1
+CD205,DEC-205; CLEC13B; GP200-MR6; LY75
+CD206,Mannose receptor C type-1 (MRC1); Macro- phage mannose receptor (MMR); C-type Lectin domain family 13 member D (CLEC13D)
+CD207,Langerin; C-type Lectin domain family 4 member K (CLEC4K)
+CD208,Lysosomal-associated membrane protein 3 (LAMP3); DC-LAMP; DCLAMP; LAMP; TSC403
+CD209,"Dendritic cell-specific ICAM-3-grabbing
+non-integrin (DC-SIGN); DC-SIGN1; CDSIGN;
+C-type lectin domain family 4 member L (CLEC4L); HIV gp120-binding protein"
+CD210a,Interleukin 10 Receptor A (IL-10RA; IL-10R1)
+CDw210b,Interleukin 10 Receptor B (IL-10RB; IL-10R2)
+CD212,Interleukin 12 receptor β1 chain (IL-12β1); IL-12β; CD212b1
+CD213a1,Interleukin 13 receptor α1 chain (IL-13Rα1); NR4
+CD213a2,Interleukin 13 receptor α2 chain (IL-13Rα2); interleukin-13-binding protein (IL13BP)
+CD215,Interleukin 15 receptor alpha chain (IL-15RA)
+CD217,Interleukin 17 receptor A (IL-17RA); IL-17R; CDw217
+CD218a,Interleukin 18 receptor 1 (IL-18R1); IL-18RA; IL-18Rα; IL1 receptor-related protein (IL-1Rrp); IL-R5; CDw218a
+CD218b,"Interleukin 18 receptor β (IL-18Rβ); IL-18 receptor accessory protein (IL-18RAP;
+IL-18RAcP); IL-1R accessory protein-like (IL- 1RAcPL); IL-1R7; CDw218b"
+CD220,Insulin receptor (INSR); IR
+CD221,Insulin-like growth factor 1 receptor (IGF1R); IGF-1R; type I IGF receptor (IGF-IR); JTK13
+CD222,"Cation-independent mannose-6-phosphate receptor (M6P-R; CIM6PR; CIMPR; CI-MPR);
+Insulin-like growth factor 2 receptor (IGF2R; IGFIIR; IGF-IIR); MPR1; MPRI"
+CD223,Lymphocyte activation gene 3 (LAG3; LAG-3); FDC protein
+CD224,γ-Glutamyl transferase 1 (GGT1); γ-Glutamyl transpeptidase 1 (GGTP); GGT; GTG; EC2.3.2.2
+CD225,Interferon-induced transmembrane protein 1 (IFITM1); Interferon-induced protein 17 (IFI17); Interferon-inducible protein 9-27 (9-27); Leu13; fragilis2
+CD226,DNAX accessory molecule 1 (DNAM-1); Platelet and T-cell activation antigen 1 (PTA-1); T lineage-specific activation antigen 1 antigen (TLiSA1)
+CD227,Mucin 1 (MUC1; MUC-1); DF3 antigen; H23 antigen; Peanut-reactive urinary mucin (PUM); Polymorphic epithelial mucin (PEM); Epithelial membrane antigen (EMA); Tumor-associated mucin; Episialin
+CD228,Melanotransferrin (MT; MTF1); p97 Melanoma antigen (p97; MAP97); Mfi2; gp95
+CD229,Lymphocyte antigen 9 (Ly9); T-lymphocyte surface antigen Ly-9; Signaling lymphocyte ac- tivation molecule family member 3 (SLAMF3); Lgp100; T100
+CD230,Prion protein (PrP; PRNP); Major prion protein; prP27-30; prP33-35C; PrPc
+CD231,"Tetraspanin 7 (TSPAN7); T-cell acute lymphoblastic leukemia-associated antigen 1 (TALLA-1); Transmembrane 4 superfamily
+member 2 (TM4SF2); Membrane component X chromosome surface marker-1 (MXS1); A15"
+CD232,Plexin C1 (PLXNC1); Virus-encoded semapho- rin protein receptor (VESPR; VESP-R)
+CD233,Solute carrier family 4 anion exchanger member 1 (SLC4A1); Band 3; Anion exchanger 1 (AE1); Diego blood group; Erythroid protein band 3 (EPB3)
+CD234,Duffy antigen/chemokine receptor (DARC); Duffy blood group antigen (Dfy; FY); Fy- Glycoprotein; Glycoprotein D
+CD235a,Glycophorin A (GYPA); Sialoglycoprotein α; Sialoglycoprotein A; MN blood group antigen; PAS-2
+CD235b,Glycophorin B (GYPB); Sialoglycoprotein δ; ss-Active sialoglycoprotein; SS blood group antigen; PAS-3
+CD236,Glycophorin C & D (GYPC & GYPD); Glycopho- rin C/D; Gerbich blood group antigen; CD236R (glycophorin C only)
+CD236R,Glycophorin C; GYPC
+CD238,Kell blood group glycoprotein (Kel); Kell blood group antigen; Endothelin-3-converting enzyme (ECE3)
+CD239,Basal cell adhesion molecule (BCAM; B-CAM); Lutheran blood group glycoprotein; Lutheran blood group antigen (Lu)
+CD240,Rh blood group system; CD240CE (Rh30CE; Cc & Ee blood antigens); CD240D (Rh30D; D blood antigen); CD240DCE (Rh30D/CE)
+CD241,RhAG; Rh50A; RH2
+CD242,ICAM4; LW
+CD243,ABC20; CD243; CLCS; GP170; MDR1; P-gp; PGY1
+CD244,2B4; NAIL; NKR2B4; Nmrk; SLAMF4
+CD245,p220/240
+CD246,ALK; TFG/ALK; NBLST3
+CD247,CD3-ζ; CD3H; CD3Q; CD3Z; T3Z; TCRZ
+CD248,TEM1; Endosialin; CD164L1; MGC119478; MGC119479
+CD249,APA; gp160; EAP; ENPEP
+CD252,TNFSF4; GP34; OX4OL; TXGP1; CD134L; OX- 40L; OX40L
+CD253,TNFSF10; TL2; APO2L; TRAIL; Apo-2L
+CD254,TRANCE; RANKL; TNFSF11; ODF; OPGL; sOdf; OPTB2; hRANKL2
+CD256,TNFSF13; APRIL; TALL2; TRDL-1; UNQ383/ PRO715
+CD257,TNFSF13b; BAFF; BLYS; TALL1; THANK; TNFSF20; ZTNF4
+CD258,TNFSF14; LTg; TR2; HVEML; LIGHT
+CD261,TNFRSF10a; APO2; DR4; MGC9365; TRAILR1
+CD262,TNFRSF10b; KILLER/DR5; TRAILR2; TRICK2; TRICK2A; TRICK2B; TRICKB; ZTNFR9
+CD263,TNFRSF10c; DCR1; LIT; TRAILR3; TRID
+CD264,TNFSF10d; DCR2; TRAILR4; TRUNDD
+CD265,TNFRSF11a; EOF; FEO; ODFR; OFE; PDB2; RANK; TRANCER
+CD266,TNFRSF12A; FN14; TWEAKR
+CD267,TNFRSF13B; CVID; TACI; FLJ39942; MGC39952; MGC133214; TNFRSF14B
+CD268,TNFRSF13C; BAFFR; CD268; BAFF-R; MGC138235
+CD269,TNFRSF17; BCM; BCMA
+CD270,TNFRSF14; HVEM
+CD271,NGFR; Gp80-LNGFR; TNFRSF16; p75(NTR); p75NTR
+CD272,BTLA1; FLJ16065; MGC129743
+CD273,B7DC; Btdc; PDL2; CD273; PD-L2; PDCD1L2; MGC142238; MGC142240; bA574F11.2; PDCD1LG2
+CD274,B7-H; B7H1; PDL1; PD-L1; PDCD1L1; PDCD1LG1; MGC142294; MGC142296; CD274
+CD275,B7H2; GL50; B7-H2; B7RP1; CD275; ICOSL; LICOS; B7RP-1; ICOS-L; KIAA0653; ICOSLG
+CD276,B7H3; B7-H3; 4Ig-B7-H3; CD276
+CD277,BTF5; BT3.1; CD277; MGC141880; BTN3A1
+CD278,AILIM; CD278; MGC39850; ICOS
+CD279,PD1; CD279; SLEB2; hPD-1; hPD-l; PDCD1
+CD280,CD280; UPARAP; CLEC13E; ENDO180; FLJ35911; KIAA0709; MRC2; KIAA0709
+CD281,TIL; CD281; rsc786; KIAA0012; MGC104956; MGC126311; MGC126312; TIL. LPRS5; DKFZp547I0610; DKFZp564I0682; TLR1
+CD282,TIL4; CD282; TLR2
+CD283,TLR3; TOLL-like receptor 3
+CD284,TOLL; CD284; hToll; ARMD10; TLR4
+CD286,CD286; TLR6; TOLL-like receptor 6
+CD288,"CD288; MGC119599; MGC119600; TLR8;
+TOLL-like receptor 8"
+CD289,TLR9; TOLL-like receptor 9
+CD290,TLR10; TOLL-like receptor 10
+CD292,BIMPR1A; 10q23del; ACVRLK3; ALK3; SKR5
+CDw293,BMPR1B; ALK-6; ALK6;
+CD294,CRTH2; PGRD2; G protein-coupled receptor 44 (GPR44); DL1R; DP2
+CD295,LEPR; OBR
+CD296,ART1; ADP-ribosyltransferase 1; RT6; ART2; MGC133217
+CD297,ART4; ADP-ribosyltransferase 4; Dombrock blood group glycoprotein; DO; DOK1
+CD298,ATP1B3; Na K ATPase β3 subunit; ATPB-3; FLJ29027
+CD299,DCSIGN-related; L-SIGN; DCSIGNR; HP10347; DC-SIGN2; DC-SIGNR; MGC47866; MGC12996; CLEC4M
+CD300a,IRC1; IRC2; CLM-8; IRp60; IGSF12; CMRF35H; CMRF-35H; CMRF35-H; CMRF35H9; CMRF35- H9; IRC1/IRC2; CMRF-35-H9
+CD300c,CMRF-35A; LIR; CLM-6; CMRF35; IGSF16; CMRF-35; CMRF35A; CMRF35A1; CMRF35-A1
+CD300e,CMRF-35L1; CLM2; CLM-2; IREM2; PIgR2; IREM-2; PIgR-2; CD300LE; CMRF35-A5
+CD301,MGL1; CLEC10A; CLECSF14; HML
+CD302,DCL1
+CD303,BDCA2; CLEC4C
+CD304,Neuropilin 1
+CD305,LAIR1
+CD306,LAIR2
+CD307a,FCRL1; IRTA5
+CD307b,FCRL2; IRTA4
+CD307c,FCRL3; IRTA3
+CD307d,FCRL4; IRTA1
+CD307e,FCRL5; IRTA2
+CD309,VEGFR2; KDR; Flk1
+CD312,EMR2
+CD314,NKG2D
+CD315,PTGFRN; CD9P1
+CD316,EWI2; IGSF8
+CD317,BST2
+CD318,CDCP1
+CD319,CRACC; SLAMF7
+CD320,8D6
+CD321,JAM1; F11 receptor
+CD322,JAM2
+CD324,E-Cadherin
+CD325,N-Cadherin
+CD326,Ep-CAM
+CD327,Siglec6; CD33L
+CD328,Siglec7
+CD329,Siglec9
+CD331,FGFR1
+CD332,FGFR2
+CD333,FGFR3
+CD334,FGFR4
+CD335,NKp46; NCR1; Ly94
+CD336,NKp44; NCR2; Ly95
+CD337,NKp30; NCR3
+CD338,ABCG2
+CD339,Jagged-1; JAG1
+CD340,ERB-B2; Neu; Her-2
+CD344,FZD4; Frizzled homolog 4
+CD349,FZD9; Frizzled homolog 9
+CD350,FZD10; Frizzled homolog 10
+CD351,FCAMR; Fc receptor; IgA; IgM; high affinity
+CD352,SLAMF6; Ly108; NTB-A
+CD353,SLAMF8; BLAME
+CD354,TREM1
+CD355,CRTAM; Cytotoxic and regulatory T-cell molecule
+CD357,TNFRSF18; Tumor necrosis factor receptor superfamily; member 18; GITR
+CD358,TNFRSF21; Tumor necrosis factor receptor superfamily; member 21; DR6
+CD359,PI16
+CD360,IL21R
+CD361,EVI2B (ectoptoc viral integration site 2B)
+CD362,Syndecan-2
+CD363,S1PR1; Sphingosine-1-phosphate receptor 1; EDG-1
