@@ -1,0 +1,410 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1917295	2610528A11Rik	RIKEN cDNA 2610528A11 gene	14		chemokine activity			IDA		J:248456 	
+MGI:1917295	2610528A11Rik	RIKEN cDNA 2610528A11 gene	14		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1924977	6030468B19Rik	RIKEN cDNA 6030468B19 gene	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:102774	Aimp1	aminoacyl tRNA synthetase complex-interacting multifunctional protein 1	3		cytokine activity			IDA		J:127945 	
+MGI:88068	Areg	amphiregulin	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:88176	Bmp1	bone morphogenetic protein 1	14		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		cytokine activity	is a part of cardiac jelly development,happens in atrioventricular canal,is a part of positive regulation of extracellular matrix constituent secretion,is a part of BMP signaling pathway|is a part of atrioventricular canal morphogenesis,is a part of BMP signaling pathway involved in heart development|is a part of endocardial cushion formation,is a part of BMP signaling pathway involved in heart development|is a part of epithelial to mesenchymal transition,happens in atrioventricular canal,is a part of BMP signaling pathway involved in heart development		IMP		J:110615 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		cytokine activity			TAS		J:36213 	
+MGI:88179	Bmp3	bone morphogenetic protein 3	5		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		cytokine activity			ISO	P12644 	J:73065 	
+MGI:88181	Bmp5	bone morphogenetic protein 5	9		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:88182	Bmp6	bone morphogenetic protein 6	13		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:103302	Bmp7	bone morphogenetic protein 7	2		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:103302	Bmp7	bone morphogenetic protein 7	2		cytokine activity			TAS		J:30057 	
+MGI:104515	Bmp8a	bone morphogenetic protein 8a	4		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:104515	Bmp8a	bone morphogenetic protein 8a	4		cytokine activity			TAS		J:46927 	
+MGI:107335	Bmp8b	bone morphogenetic protein 8b	4		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:107335	Bmp8b	bone morphogenetic protein 8b	4		cytokine activity			TAS		J:34057 	
+MGI:1338820	Bmp10	bone morphogenetic protein 10	6		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:1316745	Bmp15	bone morphogenetic protein 15	X		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:1914695	C1qtnf4	C1q and tumor necrosis factor related protein 4	2		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:98258	Ccl1	chemokine (C-C motif) ligand 1	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:98258	Ccl1	chemokine (C-C motif) ligand 1	11		chemokine activity			ISO	P22362 	J:164563 	
+MGI:98258	Ccl1	chemokine (C-C motif) ligand 1	11		cytokine activity			IDA		J:48580 	
+MGI:98259	Ccl2	chemokine (C-C motif) ligand 2	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:98259	Ccl2	chemokine (C-C motif) ligand 2	11		chemokine activity			ISO	RGD:3645 	J:155856 	
+MGI:98259	Ccl2	chemokine (C-C motif) ligand 2	11		chemokine activity			ISO	Q99616 	J:164563 	
+MGI:98259	Ccl2	chemokine (C-C motif) ligand 2	11		cytokine activity			IDA		J:193599 	
+MGI:98260	Ccl3	chemokine (C-C motif) ligand 3	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:98260	Ccl3	chemokine (C-C motif) ligand 3	11		chemokine activity			IDA		J:29873 	
+MGI:98260	Ccl3	chemokine (C-C motif) ligand 3	11		chemokine activity			ISO	RGD:3647 	J:155856 	
+MGI:98260	Ccl3	chemokine (C-C motif) ligand 3	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:98261	Ccl4	chemokine (C-C motif) ligand 4	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:98261	Ccl4	chemokine (C-C motif) ligand 4	11		chemokine activity			ISO	RGD:620441 	J:155856 	
+MGI:98261	Ccl4	chemokine (C-C motif) ligand 4	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:98262	Ccl5	chemokine (C-C motif) ligand 5	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:98262	Ccl5	chemokine (C-C motif) ligand 5	11		chemokine activity			ISO	RGD:69069 	J:155856 	
+MGI:98262	Ccl5	chemokine (C-C motif) ligand 5	11		chemokine activity			ISO	P13501 	J:164563 	
+MGI:98262	Ccl5	chemokine (C-C motif) ligand 5	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:98263	Ccl6	chemokine (C-C motif) ligand 6	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:98263	Ccl6	chemokine (C-C motif) ligand 6	11		chemokine activity			ISO	RGD:1303200 	J:155856 	
+MGI:98263	Ccl6	chemokine (C-C motif) ligand 6	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:99512	Ccl7	chemokine (C-C motif) ligand 7	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:99512	Ccl7	chemokine (C-C motif) ligand 7	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:101878	Ccl8	chemokine (C-C motif) ligand 8	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:101878	Ccl8	chemokine (C-C motif) ligand 8	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:104533	Ccl9	chemokine (C-C motif) ligand 9	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:104533	Ccl9	chemokine (C-C motif) ligand 9	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:103576	Ccl11	chemokine (C-C motif) ligand 11	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:103576	Ccl11	chemokine (C-C motif) ligand 11	11		chemokine activity			ISO	RGD:3644 	J:155856 	
+MGI:103576	Ccl11	chemokine (C-C motif) ligand 11	11		chemokine activity			ISO	P51671 	J:164563 	
+MGI:103576	Ccl11	chemokine (C-C motif) ligand 11	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:108224	Ccl12	chemokine (C-C motif) ligand 12	11		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:108224	Ccl12	chemokine (C-C motif) ligand 12	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1329039	Ccl17	chemokine (C-C motif) ligand 17	8		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1329039	Ccl17	chemokine (C-C motif) ligand 17	8		chemokine activity			TAS		J:51316 	
+MGI:1329039	Ccl17	chemokine (C-C motif) ligand 17	8		cytokine activity			TAS		J:51316 	
+MGI:1346316	Ccl19	chemokine (C-C motif) ligand 19	4		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1346316	Ccl19	chemokine (C-C motif) ligand 19	4		chemokine activity			IDA		J:175209 	
+MGI:1346316	Ccl19	chemokine (C-C motif) ligand 19	4		chemokine activity			ISO	Q99731 	J:164563 	
+MGI:1346316	Ccl19	chemokine (C-C motif) ligand 19	4		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1329031	Ccl20	chemokine (C-C motif) ligand 20	1		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1329031	Ccl20	chemokine (C-C motif) ligand 20	1		chemokine activity			ISO	RGD:3646 	J:155856 	
+MGI:1329031	Ccl20	chemokine (C-C motif) ligand 20	1		cytokine activity			IDA		J:51311 	
+MGI:1349183	Ccl21a	chemokine (C-C motif) ligand 21A (serine)	4		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1349183	Ccl21a	chemokine (C-C motif) ligand 21A (serine)	4		chemokine activity			IDA		J:175209 	
+MGI:1349183	Ccl21a	chemokine (C-C motif) ligand 21A (serine)	4		chemokine activity	happens in T cell		IMP		J:259583 	
+MGI:1349183	Ccl21a	chemokine (C-C motif) ligand 21A (serine)	4		chemokine activity			ISO	O00585 	J:164563 	
+MGI:1349183	Ccl21a	chemokine (C-C motif) ligand 21A (serine)	4		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1349182	Ccl21b	chemokine (C-C motif) ligand 21B (leucine)	4		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1349182	Ccl21b	chemokine (C-C motif) ligand 21B (leucine)	4		chemokine activity			ISO	U88320 	J:42623 	
+MGI:1349182	Ccl21b	chemokine (C-C motif) ligand 21B (leucine)	4		chemokine activity			ISO	O00585 	J:164563 	
+MGI:1891386	Ccl21c	chemokine (C-C motif) ligand 21C (leucine)	4		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:5434896	Ccl21d	chemokine (C-C motif) ligand 21D	4		chemokine activity			ISO	O00585 	J:164563 	
+MGI:1306779	Ccl22	chemokine (C-C motif) ligand 22	8		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1306779	Ccl22	chemokine (C-C motif) ligand 22	8		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1928953	Ccl24	chemokine (C-C motif) ligand 24	5		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1928953	Ccl24	chemokine (C-C motif) ligand 24	5		chemokine activity			ISO	O00175 	J:164563 	
+MGI:1928953	Ccl24	chemokine (C-C motif) ligand 24	5		cytokine activity			IDA		J:66327 	
+MGI:1099448	Ccl25	chemokine (C-C motif) ligand 25	8		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1099448	Ccl25	chemokine (C-C motif) ligand 25	8		chemokine activity			IDA		J:59297 	
+MGI:1099448	Ccl25	chemokine (C-C motif) ligand 25	8		chemokine activity			ISO	O15444 	J:164563 	
+MGI:1099448	Ccl25	chemokine (C-C motif) ligand 25	8		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:3589281	Ccl26	chemokine (C-C motif) ligand 26	5		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1343459	Ccl27a	chemokine (C-C motif) ligand 27A	4		chemokine activity			IBA	PTN002704760 	J:265628 	
+MGI:1343459	Ccl27a	chemokine (C-C motif) ligand 27A	4		chemokine activity			IDA		J:241132 	
+MGI:1343459	Ccl27a	chemokine (C-C motif) ligand 27A	4		cytokine activity			IDA		J:61403 	
+MGI:1861731	Ccl28	chemokine (C-C motif) ligand 28	13		chemokine activity			IBA	PTN002704760 	J:265628 	
+MGI:1861731	Ccl28	chemokine (C-C motif) ligand 28	13		chemokine activity			IDA		J:241132 	
+MGI:1861731	Ccl28	chemokine (C-C motif) ligand 28	13		chemokine activity			ISO	Q9NRJ3 	J:164563 	
+MGI:1861731	Ccl28	chemokine (C-C motif) ligand 28	13		chemokine activity			ISS		J:63604 	
+MGI:1861731	Ccl28	chemokine (C-C motif) ligand 28	13		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:88337	Cd40lg	CD40 ligand	X		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1195273	Cd70	CD70 antigen	17		cytokine activity			ISO	P32970 	J:164563 	
+MGI:1201414	Cer1	cerberus 1, DAN family BMP antagonist	4		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1922708	Cklf	chemokine-like factor	8		chemokine activity			ISO	Q9UBR5 	J:164563 	
+MGI:1922708	Cklf	chemokine-like factor	8		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1930088	Clcf1	cardiotrophin-like cytokine factor 1	19		cytokine activity			IBA	PTN001085373 	J:265628 	
+MGI:1930088	Clcf1	cardiotrophin-like cytokine factor 1	19		cytokine activity			IDA		J:57927 	
+MGI:1930088	Clcf1	cardiotrophin-like cytokine factor 1	19	contributes_to	cytokine activity			ISO	Q9UBD9 	J:164563 	
+MGI:2447160	Cmtm2a	CKLF-like MARVEL transmembrane domain containing 2A	8		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2447311	Cmtm2b	CKLF-like MARVEL transmembrane domain containing 2B	8		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2447162	Cmtm3	CKLF-like MARVEL transmembrane domain containing 3	8		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2447164	Cmtm5	CKLF-like MARVEL transmembrane domain containing 5	14		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2447166	Cmtm7	CKLF-like MARVEL transmembrane domain containing 7	9		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2447167	Cmtm8	CKLF-like MARVEL transmembrane domain containing 8	9		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:88439	Cntf	ciliary neurotrophic factor	19		cytokine activity			IBA	PTN001432742 	J:265628 	
+MGI:88439	Cntf	ciliary neurotrophic factor	19		cytokine activity			ISO	RGD:2370 	J:155856 	
+MGI:1340030	Crlf1	cytokine receptor-like factor 1	8	contributes_to	cytokine activity			ISO	O75462 	J:164563 	
+MGI:1889506	Crlf2	cytokine receptor-like factor 2	5		cytokine activity			ISO	RGD:621078 	J:155856 	
+MGI:1339753	Csf1	colony stimulating factor 1 (macrophage)	3		cytokine activity			IBA	PTN002559881 	J:265628 	
+MGI:1339753	Csf1	colony stimulating factor 1 (macrophage)	3		cytokine activity			ISO	P09603 	J:73065 	
+MGI:1339752	Csf2	colony stimulating factor 2 (granulocyte-macrophage)	11		cytokine activity			IBA	PTN000006643 	J:265628 	
+MGI:1339752	Csf2	colony stimulating factor 2 (granulocyte-macrophage)	11		cytokine activity	happens in granulocyte monocyte progenitor cell		IDA		J:98325 	
+MGI:1339752	Csf2	colony stimulating factor 2 (granulocyte-macrophage)	11		cytokine activity	happens in myeloid lineage restricted progenitor cell		IDA		J:1049 	
+MGI:1339752	Csf2	colony stimulating factor 2 (granulocyte-macrophage)	11		cytokine activity			ISO	RGD:621065 	J:155856 	
+MGI:1339752	Csf2	colony stimulating factor 2 (granulocyte-macrophage)	11		cytokine activity			ISO	P04141 	J:164563 	
+MGI:1339751	Csf3	colony stimulating factor 3 (granulocyte)	11		cytokine activity			IBA	PTN000053736 	J:265628 	
+MGI:1339751	Csf3	colony stimulating factor 3 (granulocyte)	11		cytokine activity			ISO	P09919 	J:164563 	
+MGI:1339751	Csf3	colony stimulating factor 3 (granulocyte)	11		cytokine activity			NAS		J:114121 	
+MGI:105115	Ctf1	cardiotrophin 1	7		cytokine activity			IBA	PTN001085373 	J:265628 	
+MGI:105115	Ctf1	cardiotrophin 1	7		cytokine activity			ISO	RGD:2442 	J:155856 	
+MGI:2684607	Ctf2	cardiotrophin 2	7		cytokine activity			IBA	PTN001085373 	J:265628 	
+MGI:1097153	Cx3cl1	chemokine (C-X3-C motif) ligand 1	8		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:1097153	Cx3cl1	chemokine (C-X3-C motif) ligand 1	8		chemokine activity		PR:O35188	IDA		J:40832 	
+MGI:1097153	Cx3cl1	chemokine (C-X3-C motif) ligand 1	8		chemokine activity			ISO	RGD:620458 	J:155856 	
+MGI:1097153	Cx3cl1	chemokine (C-X3-C motif) ligand 1	8		chemokine activity			ISO	P78423 	J:164563 	
+MGI:1097153	Cx3cl1	chemokine (C-X3-C motif) ligand 1	8		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:108068	Cxcl1	chemokine (C-X-C motif) ligand 1	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:108068	Cxcl1	chemokine (C-X-C motif) ligand 1	5		chemokine activity			ISO	RGD:619869 	J:155856 	
+MGI:108068	Cxcl1	chemokine (C-X-C motif) ligand 1	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1340094	Cxcl2	chemokine (C-X-C motif) ligand 2	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:1340094	Cxcl2	chemokine (C-X-C motif) ligand 2	5		chemokine activity			ISO	RGD:70069 	J:155856 	
+MGI:1340094	Cxcl2	chemokine (C-X-C motif) ligand 2	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:3037818	Cxcl3	chemokine (C-X-C motif) ligand 3	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:3037818	Cxcl3	chemokine (C-X-C motif) ligand 3	5		chemokine activity			IDA		J:88000 	
+MGI:3037818	Cxcl3	chemokine (C-X-C motif) ligand 3	5		chemokine activity			ISO	RGD:621812 	J:155856 	
+MGI:3037818	Cxcl3	chemokine (C-X-C motif) ligand 3	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1096868	Cxcl5	chemokine (C-X-C motif) ligand 5	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:1096868	Cxcl5	chemokine (C-X-C motif) ligand 5	5		chemokine activity			ISO	RGD:708540 	J:155856 	
+MGI:1096868	Cxcl5	chemokine (C-X-C motif) ligand 5	5		chemokine activity			ISO	P80162 	J:164563 	
+MGI:1096868	Cxcl5	chemokine (C-X-C motif) ligand 5	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1352449	Cxcl9	chemokine (C-X-C motif) ligand 9	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:1352449	Cxcl9	chemokine (C-X-C motif) ligand 9	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1352450	Cxcl10	chemokine (C-X-C motif) ligand 10	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:1352450	Cxcl10	chemokine (C-X-C motif) ligand 10	5		chemokine activity			ISO	RGD:620209 	J:155856 	
+MGI:1352450	Cxcl10	chemokine (C-X-C motif) ligand 10	5		chemokine activity			ISO	P02778 	J:164563 	
+MGI:1352450	Cxcl10	chemokine (C-X-C motif) ligand 10	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1860203	Cxcl11	chemokine (C-X-C motif) ligand 11	5		chemokine activity			TAS		J:62788 	
+MGI:103556	Cxcl12	chemokine (C-X-C motif) ligand 12	6		chemokine activity			IBA	PTN000428507 	J:265628 	
+MGI:103556	Cxcl12	chemokine (C-X-C motif) ligand 12	6		chemokine activity			IDA		J:79852 	
+MGI:103556	Cxcl12	chemokine (C-X-C motif) ligand 12	6		chemokine activity			ISO	P48061 	J:164563 	
+MGI:103556	Cxcl12	chemokine (C-X-C motif) ligand 12	6		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1888499	Cxcl13	chemokine (C-X-C motif) ligand 13	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:1888499	Cxcl13	chemokine (C-X-C motif) ligand 13	5		chemokine activity			IDA		J:119527 	
+MGI:1888499	Cxcl13	chemokine (C-X-C motif) ligand 13	5		chemokine activity			ISO	O43927 	J:164563 	
+MGI:1888499	Cxcl13	chemokine (C-X-C motif) ligand 13	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1888514	Cxcl14	chemokine (C-X-C motif) ligand 14	13		chemokine activity			IEA	IPR001811 IPR036048 IPR039088 	J:72247 	
+MGI:1888514	Cxcl14	chemokine (C-X-C motif) ligand 14	13		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1339941	Cxcl15	chemokine (C-X-C motif) ligand 15	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:1339941	Cxcl15	chemokine (C-X-C motif) ligand 15	5		chemokine activity			IDA		J:54701 J:60715 	
+MGI:1339941	Cxcl15	chemokine (C-X-C motif) ligand 15	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1932682	Cxcl16	chemokine (C-X-C motif) ligand 16	11		chemokine activity			IBA	PTN000373033 	J:265628 	
+MGI:1932682	Cxcl16	chemokine (C-X-C motif) ligand 16	11		chemokine activity			IDA		J:65117 	
+MGI:1932682	Cxcl16	chemokine (C-X-C motif) ligand 16	11		chemokine activity			ISO	Q9H2A7 	J:164563 	
+MGI:1932682	Cxcl16	chemokine (C-X-C motif) ligand 16	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2387642	Cxcl17	chemokine (C-X-C motif) ligand 17	7		chemokine activity			ISO	Q6UXB2 	J:73065 	
+MGI:1354171	Ebi3	Epstein-Barr virus induced gene 3	17		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:95283	Edn1	endothelin 1	13		cytokine activity			ISO	P05305 	J:164563 	
+MGI:95407	Epo	erythropoietin	5		cytokine activity			IBA	PTN002571322 	J:265628 	
+MGI:95407	Epo	erythropoietin	5		cytokine activity			ISO	P01588 	J:164563 	
+MGI:1270150	Fam3b	family with sequence similarity 3, member B	16		cytokine activity			NAS		J:78441 	
+MGI:99255	Fasl	Fas ligand (TNF superfamily, member 6)	1		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:95516	Fgf2	fibroblast growth factor 2	3		cytokine activity			ISO	P09038 	J:164563 	
+MGI:95560	Flt3l	FMS-like tyrosine kinase 3 ligand	7		cytokine activity			IEA	IPR004213 	J:72247 	
+MGI:95560	Flt3l	FMS-like tyrosine kinase 3 ligand	7		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:95683	Gdf1	growth differentiation factor 1	8		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:1321394	Gdf2	growth differentiation factor 2	14		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:95686	Gdf3	growth differentiation factor 3	6		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:95688	Gdf5	growth differentiation factor 5	2		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:95689	Gdf6	growth differentiation factor 6	4		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:95690	Gdf7	growth differentiation factor 7	12		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:95692	Gdf9	growth differentiation factor 9	11		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:95684	Gdf10	growth differentiation factor 10	14		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:1338027	Gdf11	growth differentiation factor 11	10		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:1346047	Gdf15	growth differentiation factor 15	8		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:3701966	Gm13271	predicted gene 13271	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3701968	Gm13272	predicted gene 13272	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3701970	Gm13275	predicted gene 13275	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3701972	Gm13276	predicted gene 13276	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3701974	Gm13277	predicted gene 13277	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3649573	Gm13283	predicted gene 13283	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:95797	Gpi1	glucose-6-phosphate isomerase 1	7		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1344337	Grem1	gremlin 1, DAN family BMP antagonist	2		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1344367	Grem2	gremlin 2, DAN family BMP antagonist	1		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:95832	Grn	granulin	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:96113	Hmgb1	high mobility group box 1	5		cytokine activity	happens in myeloid lineage restricted progenitor cell		IDA		J:25262 J:28646 	
+MGI:96113	Hmgb1	high mobility group box 1	5		cytokine activity			ISO	P63159 	J:73065 	
+MGI:107668	Ifna1	interferon alpha 1	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107668	Ifna1	interferon alpha 1	4		cytokine activity			IDA		J:91936 	
+MGI:107666	Ifna2	interferon alpha 2	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107664	Ifna4	interferon alpha 4	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107663	Ifna5	interferon alpha 5	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107662	Ifna6	interferon alpha 6	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107661	Ifna7	interferon alpha 7	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107659	Ifna9	interferon alpha 9	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:109210	Ifna11	interferon alpha 11	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:2676324	Ifna12	interferon alpha 12	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:2667155	Ifna13	interferon alpha 13	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3641425	Ifna14	interferon alpha 14	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3649418	Ifna15	interferon alpha 15	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3649260	Ifna16	interferon alpha 16	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:1097683	Ifnab	interferon alpha B	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107657	Ifnb1	interferon beta 1, fibroblast	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107657	Ifnb1	interferon beta 1, fibroblast	4		cytokine activity			IDA		J:91936 	
+MGI:107657	Ifnb1	interferon beta 1, fibroblast	4		cytokine activity			ISO	P01574 	J:164563 	
+MGI:2667156	Ifne	interferon epsilon	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:107656	Ifng	interferon gamma	10		cytokine activity			IBA	PTN000892718 	J:265628 	
+MGI:107656	Ifng	interferon gamma	10		cytokine activity			IDA		J:83995 J:85159 J:88533 J:91936 	
+MGI:2683287	Ifnk	interferon kappa	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:3647279	Ifnl2	interferon lambda 2	7		cytokine activity			IEA	IPR029177 	J:72247 	
+MGI:3647279	Ifnl2	interferon lambda 2	7		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2450574	Ifnl3	interferon lambda 3	7		cytokine activity			IEA	IPR029177 	J:72247 	
+MGI:2450574	Ifnl3	interferon lambda 3	7		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2448469	Ifnz	interferon zeta	4		cytokine activity			IBA	PTN000914537 	J:265628 	
+MGI:96542	Il1a	interleukin 1 alpha	2		cytokine activity			IDA		J:193599 	
+MGI:96542	Il1a	interleukin 1 alpha	2		cytokine activity			ISO	P01583 	J:164563 	
+MGI:96543	Il1b	interleukin 1 beta	2		cytokine activity	happens in fibroblast		IDA		J:93342 	
+MGI:96543	Il1b	interleukin 1 beta	2		cytokine activity			IDA		J:85159 	
+MGI:96543	Il1b	interleukin 1 beta	2		cytokine activity			ISO	RGD:2891 	J:155856 	
+MGI:96543	Il1b	interleukin 1 beta	2		cytokine activity			ISO	O43645 	J:73065 	
+MGI:96543	Il1b	interleukin 1 beta	2		cytokine activity			ISO	P01584 	J:164563 	
+MGI:1859325	Il1f5	interleukin 1 family, member 5 (delta)	2		cytokine activity			IEA	IPR000975 	J:72247 	
+MGI:1859325	Il1f5	interleukin 1 family, member 5 (delta)	2		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1859324	Il1f6	interleukin 1 family, member 6	2		cytokine activity			IBA	PTN000008572 	J:265628 	
+MGI:1859324	Il1f6	interleukin 1 family, member 6	2		cytokine activity			IGI	MGI:1913107 	J:178804 	
+MGI:1916927	Il1f8	interleukin 1 family, member 8	2		cytokine activity			IBA	PTN000008572 	J:265628 	
+MGI:1916927	Il1f8	interleukin 1 family, member 8	2		cytokine activity			IGI	MGI:1913107 	J:178804 	
+MGI:2449929	Il1f9	interleukin 1 family, member 9	2		cytokine activity			IBA	PTN000008572 	J:265628 	
+MGI:2449929	Il1f9	interleukin 1 family, member 9	2		cytokine activity			IGI	MGI:1913107 	J:178804 	
+MGI:2652548	Il1f10	interleukin 1 family, member 10	2		cytokine activity			IBA	PTN000008572 	J:265628 	
+MGI:96547	Il1rn	interleukin 1 receptor antagonist	2		cytokine activity			IEA	IPR000975 	J:72247 	
+MGI:96548	Il2	interleukin 2	3		cytokine activity	happens in T cell		IDA		J:1013 J:98326 	
+MGI:96548	Il2	interleukin 2	3		cytokine activity			IDA		J:193599 	
+MGI:96548	Il2	interleukin 2	3		cytokine activity	happens in T cell		IMP		J:142709 	
+MGI:96548	Il2	interleukin 2	3		cytokine activity			ISO	RGD:620047 	J:155856 	
+MGI:96548	Il2	interleukin 2	3		cytokine activity			ISO	P60568 	J:73065 	
+MGI:96552	Il3	interleukin 3	11		cytokine activity	happens in mast cell		IDA		J:84889 	
+MGI:96552	Il3	interleukin 3	11		cytokine activity	happens in B cell|happens in mast cell		IDA		J:62510 	
+MGI:96552	Il3	interleukin 3	11		cytokine activity	happens in B cell		IDA		J:24973 	
+MGI:96552	Il3	interleukin 3	11		cytokine activity	happens in granulocyte monocyte progenitor cell		IDA		J:98325 	
+MGI:96552	Il3	interleukin 3	11		cytokine activity	happens in pro-B cell		IDA		J:21233 J:88294 	
+MGI:96552	Il3	interleukin 3	11		cytokine activity	happens in myeloid lineage restricted progenitor cell		IDA		J:1049 	
+MGI:96552	Il3	interleukin 3	11		cytokine activity			IDA		J:19621 	
+MGI:96552	Il3	interleukin 3	11		cytokine activity			ISO	RGD:2897 	J:155856 	
+MGI:96556	Il4	interleukin 4	11		cytokine activity			IBA	PTN002934025 	J:265628 	
+MGI:96556	Il4	interleukin 4	11		cytokine activity	happens in T cell		IDA		J:1013 J:98326 J:112035 	
+MGI:96556	Il4	interleukin 4	11		cytokine activity	happens in B cell		IDA		J:64603 J:76115 	
+MGI:96556	Il4	interleukin 4	11		cytokine activity			IDA		J:88533 	
+MGI:96557	Il5	interleukin 5	11		cytokine activity	happens in B cell		IDA		J:62510 	
+MGI:96557	Il5	interleukin 5	11		cytokine activity			ISO	RGD:2900 	J:155856 	
+MGI:96559	Il6	interleukin 6	5		cytokine activity	is a part of interleukin-6-mediated signaling pathway		IDA		J:129666 	
+MGI:96559	Il6	interleukin 6	5		cytokine activity			IDA		J:771 J:85159 J:193599 	
+MGI:96559	Il6	interleukin 6	5		cytokine activity			ISO	RGD:2901 	J:155856 	
+MGI:96559	Il6	interleukin 6	5		cytokine activity			ISO	P05231 	J:164563 	
+MGI:96561	Il7	interleukin 7	3		cytokine activity			IDA		J:81173 J:85809 	
+MGI:96561	Il7	interleukin 7	3		cytokine activity			ISO	P13232 	J:164563 	
+MGI:96563	Il9	interleukin 9	13		cytokine activity			IBA	PTN001445613 	J:265628 	
+MGI:96563	Il9	interleukin 9	13		cytokine activity			ISO	RGD:620049 	J:155856 	
+MGI:96537	Il10	interleukin 10	1		cytokine activity			IDA		J:88533 	
+MGI:96537	Il10	interleukin 10	1		cytokine activity			IMP	MGI:1857199 	J:91939 	
+MGI:107613	Il11	interleukin 11	7		cytokine activity			IBA	PTN002704120 	J:265628 	
+MGI:107613	Il11	interleukin 11	7		cytokine activity	happens in pro-B cell		IDA		J:21233 	
+MGI:96539	Il12a	interleukin 12a	3	contributes_to	cytokine activity	happens in T cell		IDA		J:65439 	
+MGI:96539	Il12a	interleukin 12a	3	contributes_to	cytokine activity			ISO	P29459 	J:164563 	
+MGI:96540	Il12b	interleukin 12b	11	contributes_to	cytokine activity	happens in T cell		IDA		J:65439 	
+MGI:96540	Il12b	interleukin 12b	11	contributes_to	cytokine activity			ISO	P29460 	J:164563 	
+MGI:96541	Il13	interleukin 13	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:103014	Il15	interleukin 15	8		cytokine activity			IBA	PTN002682897 	J:265628 	
+MGI:103014	Il15	interleukin 15	8		cytokine activity	happens in natural killer cell		IDA		J:119213 	
+MGI:103014	Il15	interleukin 15	8		cytokine activity			IMP	MGI:2136897 	J:60915 	
+MGI:1270855	Il16	interleukin 16	7		cytokine activity			IBA	PTN002602133 	J:265628 	
+MGI:1270855	Il16	interleukin 16	7		cytokine activity			IDA		J:47849 	
+MGI:107364	Il17a	interleukin 17A	1		cytokine activity			IEA	IPR010345 IPR020440 	J:72247 	
+MGI:107364	Il17a	interleukin 17A	1		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1928397	Il17b	interleukin 17B	18		cytokine activity			IDA		J:153850 	
+MGI:2446486	Il17c	interleukin 17C	8		cytokine activity			IDA		J:79437 	
+MGI:2446510	Il17d	interleukin 17D	14		cytokine activity			ISO	Q8TAD2 	J:164563 	
+MGI:2676631	Il17f	interleukin 17F	1		cytokine activity			ISO	Q96PD4 	J:164563 	
+MGI:107936	Il18	interleukin 18	9		cytokine activity	happens in natural killer cell		IDA		J:75400 	
+MGI:107936	Il18	interleukin 18	9		cytokine activity			IMP		J:102800 	
+MGI:107936	Il18	interleukin 18	9		cytokine activity			ISO	Q14116 	J:164563 	
+MGI:1890472	Il19	interleukin 19	1		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1890473	Il20	interleukin 20	1		cytokine activity			IDA		J:177783 	
+MGI:1890473	Il20	interleukin 20	1		cytokine activity			ISS		J:66674 	
+MGI:1890474	Il21	interleukin 21	3		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1355307	Il22	interleukin 22	10		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1932410	Il23a	interleukin 23, alpha subunit p19	10		cytokine activity			IEA	IPR010831 	J:72247 	
+MGI:1932410	Il23a	interleukin 23, alpha subunit p19	10		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2135548	Il24	interleukin 24	1		cytokine activity			ISA	P18893 	J:69272 	
+MGI:2135548	Il24	interleukin 24	1		cytokine activity			ISA	Q9JKV9 	J:69272 	
+MGI:2155888	Il25	interleukin 25	14		cytokine activity			IDA		J:79437 	
+MGI:2384409	Il27	interleukin 27	7		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1923649	Il31	interleukin 31	5		cytokine activity			IBA	PTN002214500 	J:265628 	
+MGI:1923649	Il31	interleukin 31	5		cytokine activity			IDA		J:172699 	
+MGI:1924375	Il33	interleukin 33	19		cytokine activity			IBA	PTN000473807 	J:265628 	
+MGI:1924375	Il33	interleukin 33	19		cytokine activity			IDA		J:157197 	
+MGI:1924375	Il33	interleukin 33	19		cytokine activity			IPI	PR:P14719-1 PR:P14719-2 	J:124985 	
+MGI:1924375	Il33	interleukin 33	19		cytokine activity			ISO	O95760 	J:164563 	
+MGI:1923777	Il34	interleukin 34	8		cytokine activity			IBA	PTN002823014 	J:265628 	
+MGI:2151139	Iltifb	interleukin 10-related T cell-derived inducible factor beta	10		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:96569	Inha	inhibin alpha	1		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:96570	Inhba	inhibin beta-A	13		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:96570	Inhba	inhibin beta-A	13		cytokine activity			ISO	P08476 	J:164563 	
+MGI:96571	Inhbb	inhibin beta-B	1		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:105932	Inhbc	inhibin beta-C	10		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:109269	Inhbe	inhibin beta-E	10		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:96974	Kitl	kit ligand	10		cytokine activity			IBA	PTN002611905 	J:265628 	
+MGI:96974	Kitl	kit ligand	10		cytokine activity	happens in mast cell		IDA		J:84889 	
+MGI:107405	Lefty1	left right determination factor 1	1		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:2443573	Lefty2	left-right determination factor 2	1		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:96787	Lif	leukemia inhibitory factor	11		cytokine activity			IBA	PTN000067074 	J:265628 	
+MGI:96787	Lif	leukemia inhibitory factor	11		cytokine activity	happens in uterus		IDA		J:35071 	
+MGI:96787	Lif	leukemia inhibitory factor	11		cytokine activity			IDA		J:88684 	
+MGI:96787	Lif	leukemia inhibitory factor	11		cytokine activity			ISO	P15018 	J:73065 	
+MGI:104797	Lta	lymphotoxin A	17		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:104796	Ltb	lymphotoxin B	17		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:96982	Mif	macrophage migration inhibitory factor (glycosylation-inhibiting factor)	10		cytokine activity			IDA		J:114878 J:157889 	
+MGI:96982	Mif	macrophage migration inhibitory factor (glycosylation-inhibiting factor)	10		cytokine activity			ISO	P14174 	J:164563 	
+MGI:3652339	Msmp	microseminoprotein, prostate associated	4		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:95691	Mstn	myostatin	1		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:1929865	Nampt	nicotinamide phosphoribosyltransferase	12		cytokine activity			ISO	RGD:631365 	J:155856 	
+MGI:102570	Ndp	Norrie disease (pseudoglioma) (human)	X		cytokine activity			IBA	PTN002006975 	J:265628 	
+MGI:102570	Ndp	Norrie disease (pseudoglioma) (human)	X		cytokine activity			IDA		J:107732 	
+MGI:102570	Ndp	Norrie disease (pseudoglioma) (human)	X		cytokine activity			ISO	Q00604 	J:164563 	
+MGI:97359	Nodal	nodal	10		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:104749	Osm	oncostatin M	11		cytokine activity			IBA	PTN000370309 	J:265628 	
+MGI:104749	Osm	oncostatin M	11		cytokine activity			IDA		J:88684 	
+MGI:104749	Osm	oncostatin M	11		cytokine activity			ISO	P13725 	J:164563 	
+MGI:1888711	Pf4	platelet factor 4	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:1888711	Pf4	platelet factor 4	5		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1345092	Pglyrp1	peptidoglycan recognition protein 1	7		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1888712	Ppbp	pro-platelet basic protein	5		chemokine activity			IBA	PTN000021269 	J:265628 	
+MGI:1888712	Ppbp	pro-platelet basic protein	5		chemokine activity			IDA		J:198197 	
+MGI:97619	Prl7d1	prolactin family 7, subfamily d, member 1	13		cytokine activity	happens in blood vessel endothelial cell		IDA		J:21978 	
+MGI:103033	Scg2	secretogranin II	1		cytokine activity			IBA	PTN000387919 	J:265628 	
+MGI:103033	Scg2	secretogranin II	1		cytokine activity			ISO	P13521 	J:164563 	
+MGI:103033	Scg2	secretogranin II	1		cytokine activity			ISS	P13521 	J:114140 	
+MGI:1915912	Scgb3a1	secretoglobin, family 3A, member 1	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2384805	Sectm1a	secreted and transmembrane 1A	11		cytokine activity			IEA	IPR033231 	J:72247 	
+MGI:1929083	Sectm1b	secreted and transmembrane 1B	11		cytokine activity			IEA	IPR033231 	J:72247 	
+MGI:1930923	Slurp1	secreted Ly6/Plaur domain containing 1	15		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:98389	Spp1	secreted phosphoprotein 1	5		cytokine activity			NAS		J:114071 	
+MGI:2146182	Tafa5	TAFA chemokine like family member 5	15		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:98725	Tgfb1	transforming growth factor, beta 1	7		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:98726	Tgfb2	transforming growth factor, beta 2	1		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:98727	Tgfb3	transforming growth factor, beta 3	12		cytokine activity			IBA	PTN000218063 	J:265628 	
+MGI:101875	Thpo	thrombopoietin	16		cytokine activity			IEA	IPR003978 	J:72247 	
+MGI:101875	Thpo	thrombopoietin	16		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:98752	Timp1	tissue inhibitor of metalloproteinase 1	X		cytokine activity			ISO	P01033 	J:164563 	
+MGI:104798	Tnf	tumor necrosis factor	17		cytokine activity			IBA	PTN001352146 	J:265628 	
+MGI:104798	Tnf	tumor necrosis factor	17		cytokine activity	happens in hematopoietic stem cell		IDA		J:72219 	
+MGI:104798	Tnf	tumor necrosis factor	17		cytokine activity	happens in fibroblast		IDA		J:75400 	
+MGI:104798	Tnf	tumor necrosis factor	17		cytokine activity			ISO	P01375 	J:164563 	
+MGI:104511	Tnfsf4	tumor necrosis factor (ligand) superfamily, member 4	1		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:88328	Tnfsf8	tumor necrosis factor (ligand) superfamily, member 8	4		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1101058	Tnfsf9	tumor necrosis factor (ligand) superfamily, member 9	17		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:107414	Tnfsf10	tumor necrosis factor (ligand) superfamily, member 10	3		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1100089	Tnfsf11	tumor necrosis factor (ligand) superfamily, member 11	14		cytokine activity			ISO	O14788 	J:164563 	
+MGI:1196259	Tnfsf12	tumor necrosis factor (ligand) superfamily, member 12	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1916833	Tnfsf13	tumor necrosis factor (ligand) superfamily, member 13	11		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1344376	Tnfsf13b	tumor necrosis factor (ligand) superfamily, member 13b	8		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1355317	Tnfsf14	tumor necrosis factor (ligand) superfamily, member 14	17		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2180140	Tnfsf15	tumor necrosis factor (ligand) superfamily, member 15	4		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:2673064	Tnfsf18	tumor necrosis factor (ligand) superfamily, member 18	1		cytokine activity			IEA	KW-0202 	J:60000 	
+MGI:1855696	Tslp	thymic stromal lymphopoietin	18		cytokine activity			IBA	PTN002210673 	J:265628 	
+MGI:1855696	Tslp	thymic stromal lymphopoietin	18		cytokine activity			IDA		J:64348 	
+MGI:1855696	Tslp	thymic stromal lymphopoietin	18		cytokine activity			ISO	Q969D9 	J:164563 	
+MGI:103178	Vegfa	vascular endothelial growth factor A	17		cytokine activity			ISO	P15692 	J:164563 	
+MGI:98953	Wnt1	wingless-type MMTV integration site family, member 1	15		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98953	Wnt1	wingless-type MMTV integration site family, member 1	15		cytokine activity			IDA		J:161039 	
+MGI:98954	Wnt2	wingless-type MMTV integration site family, member 2	6		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98954	Wnt2	wingless-type MMTV integration site family, member 2	6		cytokine activity			ISO	P09544 	J:164563 	
+MGI:1261834	Wnt2b	wingless-type MMTV integration site family, member 2B	3		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98955	Wnt3	wingless-type MMTV integration site family, member 3	11		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98956	Wnt3a	wingless-type MMTV integration site family, member 3A	11		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98957	Wnt4	wingless-type MMTV integration site family, member 4	4		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98958	Wnt5a	wingless-type MMTV integration site family, member 5A	14		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98958	Wnt5a	wingless-type MMTV integration site family, member 5A	14		cytokine activity			IDA		J:162983 	
+MGI:98959	Wnt5b	wingless-type MMTV integration site family, member 5B	6		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98960	Wnt6	wingless-type MMTV integration site family, member 6	1		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98961	Wnt7a	wingless-type MMTV integration site family, member 7A	6		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:98961	Wnt7a	wingless-type MMTV integration site family, member 7A	6		cytokine activity			ISO	O00755 	J:164563 	
+MGI:98962	Wnt7b	wingless-type MMTV integration site family, member 7B	15		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:107924	Wnt8a	wingless-type MMTV integration site family, member 8A	18		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:109485	Wnt8b	wingless-type MMTV integration site family, member 8B	19		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:2446084	Wnt9a	wingless-type MMTV integration site family, member 9A	11		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:1197020	Wnt9b	wingless-type MMTV integration site family, member 9B	11		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:108071	Wnt10a	wingless-type MMTV integration site family, member 10A	1		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:108061	Wnt10b	wingless-type MMTV integration site family, member 10B	15		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:101948	Wnt11	wingless-type MMTV integration site family, member 11	7		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:2136018	Wnt16	wingless-type MMTV integration site family, member 16	6		cytokine activity			IBA	PTN000246517 	J:265628 	
+MGI:104593	Xcl1	chemokine (C motif) ligand 1	1		chemokine activity			IBA	PTN000245709 	J:265628 	
+MGI:104593	Xcl1	chemokine (C motif) ligand 1	1		chemokine activity			IDA		J:29507 J:172916 	
+MGI:104593	Xcl1	chemokine (C motif) ligand 1	1		chemokine activity			ISO	P47992 	J:164563 	
+MGI:104593	Xcl1	chemokine (C motif) ligand 1	1		cytokine activity			IEA	KW-0202 	J:60000 	
+
